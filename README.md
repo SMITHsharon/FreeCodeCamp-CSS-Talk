@@ -1,4 +1,5 @@
 # FreeCodeCamp-CSS-Talk
+## Exploring CSS Animations
 ## Lesson 01 Text Effects
     STAMPED LETTERING
         TEXT SHADOW
